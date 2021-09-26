@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+.container{
+    text-align: center;
+    
+}
+h1{
+    font-size: 50px;
+    font-family: 'Bonheur Royale', cursive;
+}
+.table_button{
+    border: 5px solid grey;
+    display: inline-block;
+}
+table{
+    margin: auto;
+    background-color: #e8dbdb;
+}
+input{
+    font-size: 30px;
+    width: 444px;
+    height: 43px;
+    background-color: #e8dbdb;
+
+}
+button{
+    font-size: 20px;
+    width: 110px;
+    height: 56px;
+}
